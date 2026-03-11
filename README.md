@@ -1,2 +1,2 @@
 # test-git-vscode
-Test ci Git din VS Code
+Test cu Git din VS Code
